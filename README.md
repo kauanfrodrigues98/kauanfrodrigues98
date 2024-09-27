@@ -10,10 +10,6 @@
   <a href="https://www.linkedin.com/in/kauan-rodrigues-862169119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-#### Resumo
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanfrodrigues98&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Minhas Habilidades
 
 #### Front-end
