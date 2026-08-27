@@ -1,36 +1,109 @@
-### Olá, eu sou Kauan Rodrigues 👋
-#### Sou desenvolvedor web full stack desde 2017, nesses anos obtive experiência em vários segmentos como varejo, restaurantes, sites, e-commerce, CRM`s, vendas de ingresso entre outros. Além de trabalhar com diversas tecnologias e passado por diversas situações e problemas aumentando mais a minha expertise em softwares e soluções mais complexas. Hoje atuo como Tech Lead, realizando o gerenciamento de equipes, planejamento e gerenciamento de projetos, divisão de responsabilidades, atuar na parte de desenvolvimento, configuração e escalabilidade de servidores e projetos na Digital Ocean e auxiliar outros devs em dúvidas e na busca de melhores resultados e soluções.
- 
-<div> 
-<!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <a href="https://instagram.com/kauanfrodrigues98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-<!--  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "mailto:kauanfrodrigues98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauan-rodrigues-862169119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://kauan-rodrigues.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</a>
+# Olá, eu sou Kauan Rodrigues 👋
+
+### CEO & Founder @ Codify Labs · Creator of Rebound DLQ · Senior Software Engineer
+
+Sou desenvolvedor de software desde 2017, com experiência em **backend, arquitetura de sistemas, microsserviços e aplicações escaláveis**.
+
+Ao longo da minha carreira, trabalhei em projetos de diferentes segmentos, incluindo varejo, restaurantes, e-commerce, CRM, plataformas web, sistemas de ingressos, motores de conciliação e automação de processos.
+
+Atualmente, atuo na **Codify Labs**, onde trabalho na criação de produtos e soluções de tecnologia, unindo engenharia de software, arquitetura e visão de produto.
+
+## 🚀 Rebound DLQ
+
+**Criador do Rebound DLQ**, uma plataforma para **gerenciamento, observabilidade e reprocessamento de eventos e falhas em sistemas distribuídos**.
+
+O Rebound foi criado para ajudar equipes a lidar melhor com falhas em arquiteturas baseadas em eventos, oferecendo maior **resiliência, confiabilidade e controle operacional** sobre aplicações distribuídas.
+
+🔗 **[rebound-dlq.com](https://rebound-dlq.com)**
+
+> Building resilient systems for the systems that cannot afford to fail.
+
+---
+
+## 🧑‍💻 Sobre mim
+
+* 💼 **CEO & Founder** da Codify Labs
+* 🚀 **Creator of Rebound DLQ**
+* 🏗️ Experiência com arquitetura de **microsserviços e sistemas distribuídos**
+* ⚡ Experiência com **event-driven architecture e Kafka**
+* ☁️ Experiência com infraestrutura, servidores e cloud
+* 🐳 Docker, Kubernetes e CI/CD
+* 👨‍💻 Desenvolvimento Full Stack com forte atuação em backend
+* 🌎 Experiência em projetos nacionais e internacionais
+* 🧠 Interesse constante em arquitetura, performance, escalabilidade e sistemas resilientes
+
+---
+
+## 🛠️ Tecnologias
+
+### Front-end
+
+JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Vue.js · Nuxt.js · React · Pinia
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,nuxtjs,pinia,vue,react)](https://skillicons.dev)
+
+### Back-end
+
+Node.js · NestJS · Express · AdonisJS · PHP · Laravel
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,adonis,php,laravel)](https://skillicons.dev)
+
+### Architecture & Messaging
+
+Microservices · Distributed Systems · REST APIs · Event-Driven Architecture · Kafka · Redis
+
+[![My Skills](https://skillicons.dev/icons?i=kafka,redis)](https://skillicons.dev)
+
+### Databases
+
+MySQL · PostgreSQL · MongoDB · Redis · Prisma
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma)](https://skillicons.dev)
+
+### DevOps & Infrastructure
+
+Linux · Ubuntu · Nginx · Docker · Kubernetes · GitHub Actions · ArgoCD · DigitalOcean
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,kubernetes,githubactions,argo,digitalocean)](https://skillicons.dev)
+
+### Tools
+
+Git · GitHub · Bitbucket · Jira · Postman · WebStorm · NPM · Yarn
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,jira,postman,webstorm,npm,yarn)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanfrodrigues&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanfrodrigues&layout=compact&langs_count=8&theme=transparent"/>
 
 </div>
 
-### Minhas Habilidades
+---
 
-#### Front-end
-###### JavaScript, TypeScript, HTML 5, CSS 3, TailWindCss, BootStrap, NuxtJS, Pinia, VueJS e React
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,nuxtjs,pinia,vuejs,react)](https://skillicons.dev)
+## 🔗 Conecte-se comigo
 
-#### Back-end
-###### JavaScript, TypeScript, NodeJS, Express, AdonisJS, Laravel e PHP
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,adonis,laravel,php)](https://skillicons.dev)
+<div align="center">
 
-#### DevOps
-###### Ubuntu, Linux, Nginx e Digital Ocean (Clusters, Droplets, Dominios)
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,nginx)](https://skillicons.dev)
+<a href="https://rebound-dlq.com" target="_blank">
+<img src="https://img.shields.io/badge/Rebound%20DLQ-000000?style=for-the-badge" />
+</a>
 
-#### Database
-###### MySQL, Redis e Prisma
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis,prisma)](https://skillicons.dev)
+<a href="https://www.linkedin.com/in/kauan-rodrigues-862169119/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-#### Outras Tecnologias e Ferramentas
-###### Postman, Webstorm, NPM, Yarn, Bitbucket & Jira, Docker, Git, GitHub
-[![My Skills](https://skillicons.dev/icons?i=postman,webstorm,npm,yarn,bitbucket,docker,git,github,)](https://skillicons.dev)
+<a href="https://kauan-rodrigues.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:kauanfrodrigues98@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
